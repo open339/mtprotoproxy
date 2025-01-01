@@ -1,6 +1,0 @@
-{
-  "default_port": 443,
-  "default_domain": "s3.amazonaws.com",
-  "tag": "optional_tag",
-  "aes_key_length": 32
-}
